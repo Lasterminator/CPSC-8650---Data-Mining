@@ -1,7 +1,7 @@
 # CPSC-8650 Data Mining Project: Predicting Hearing Loss from MRI Data
 
 ## Project Overview
-This project explores machine learning techniques to predict hearing loss thresholds using 3D images of the brain's gray matter. Developed at Clemson University by Trinath Sai Subhash Reddy Pittala, Uma Maheswara R Meleti, and Manasa Thatipamula, this work leverages advanced models like autoencoders, variational autoencoders, and multi-layer neural networks to approach the complex relationship between neuroanatomy and auditory function.
+This project explores machine learning techniques to predict hearing loss thresholds using 3D images of the brain's gray matter. This work leverages advanced models like autoencoders, variational autoencoders, and multi-layer neural networks to approach the complex relationship between neuroanatomy and auditory function.
 
 ## Folder Structure
 - `code/` - All the project scripts and model training files.
